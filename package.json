@@ -1,0 +1,20 @@
+{
+  "name": "bitfinex-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "bitfinex-api-node": "^1.2.0",
+    "moment": "^2.18.1",
+    "talib": "^1.0.3"
+  },
+  "devDependencies": {
+    "terminal-kit": "^1.13.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Valin <hola@davidvalin.com>",
+  "private": true,
+  "license": "ISC",
+  "description": ""
+}
