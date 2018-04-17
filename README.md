@@ -1,6 +1,2 @@
-== My smart guy ==
-
-`npm install`
-`node bot.js`
-
-Go and catch the waves
+### My name is "Crypto Surfer" now
+[Go to the Crypto Surfer project](https://github.com/DavidValin/crypto-surfer)
